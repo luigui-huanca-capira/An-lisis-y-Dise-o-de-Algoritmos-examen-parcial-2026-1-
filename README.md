@@ -1,0 +1,1 @@
+En la carpeta src se encuentran las respuestas del examen parcial de Análisis y Diseño de Algoritmos. Incluye los archivos Java correspondientes a los problemas desarrollados, como arreglo ordenado, segundo mayor mediante divide y vencerás, conteo de inversiones y el archivo principal Main.java para ejecutar las soluciones.
